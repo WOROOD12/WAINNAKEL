@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "google-maps-react": "^2.0.2",
     "lodash": "^4.17.10",
     "react": "^16.7.0",
